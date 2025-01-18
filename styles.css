@@ -1,4 +1,13 @@
-BODY {
+body {
 background-color: powderblue
-font-family: IMPACT
+
+}
+
+h1 {
+  font-family: IMPACT
+}
+
+p {
+  font-family: IMPACT
+  font-size: 20
 }
