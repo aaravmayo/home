@@ -8,6 +8,8 @@ h1 {
 }
 
 p {
-    font-family: Impact, sans-serif;
+    font-family: Impact;
     font-size: 20px;
+    text-align: center;
+    font-color: white;
 }
