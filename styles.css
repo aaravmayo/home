@@ -9,7 +9,6 @@ h1 {
 
 p {
     font-family: Impact, sans-serif;
-    font-size: 20px;
     text-align: center;
     color: white; /* Corrected from 'font-color' to 'color' */
 }
